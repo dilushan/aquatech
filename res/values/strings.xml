@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <string name="app_name">Aqua Tech</string>
+    <string name="action_settings">Settings</string>
+    <string name="textHeight">Water level</string><string name="height">Water Level</string>
+    
+    <string name="buttonGet">Get</string>
+    <string name="emptyString"></string>
+    <string name="lable">Values</string>
+    <string android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/string1" name="hint">Enter any value</string>
+    <string android:layout_height="wrap_content" android:id="@+id/string1" android:layout_width="wrap_content" name="description">Developed for the aquatecch challenge. App can measure water level in remote tank</string>
+
+</resources>
